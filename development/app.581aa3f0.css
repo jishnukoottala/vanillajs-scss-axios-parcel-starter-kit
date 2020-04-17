@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  background: #b1c1c0;
+  color: #000;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  margin: 0 auto;
+  overflow: auto;
+  height: 100vh;
+}
+
+header {
+  padding: 0.5rem 1rem;
+  background-color: #ff715b;
+}
+
+.card {
+  padding: 20px 20px;
+  height: 300px;
+  margin: 1rem;
+  background-color: #fff;
+  position: relative;
+  width: 300px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+/*# sourceMappingURL=/app.581aa3f0.css.map */
