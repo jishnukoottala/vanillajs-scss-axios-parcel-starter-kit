@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "rmdir /Q /S development  && rmdir /Q /S .cache && parcel public/index.html --out-dir development -p 3000",
-    "build": "parcel build public/index.html --out-dir dist --publib-url ./"
+    "build": "parcel build public/index.html --out-dir dist --public-url ./"
   },
   "author": "Jishnu Koottala",
   "license": "ISC",
