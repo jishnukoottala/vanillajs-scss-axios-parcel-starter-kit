@@ -32,7 +32,7 @@ jobs:
          # Artifact name
         name: "prod"
          # Directory containing files to upload
-        path: "./dist/**"  
+        path: "dist"  
     
     
       env:
