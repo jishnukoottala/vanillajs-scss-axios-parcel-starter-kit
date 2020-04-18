@@ -1,4 +1,4 @@
-![Build Artifact](https://github.com/jishnukoottala/vanillajs-scss-axios-parcel-starter-kit/workflows/Node.js%20CI/badge.svg)
+![Build Production Artifact](https://github.com/jishnukoottala/vanillajs-scss-axios-parcel-starter-kit/workflows/Build%20Production%20Artifact/badge.svg)
 
 # :smiley: A Basic starter kit for vanilla js front end starter kit with scss and axios (for API calls)
 
