@@ -42,7 +42,7 @@ jobs:
           # Artifact name
           name: 'prod'
           # Directory containing files to upload
-          path: 'prod'
+          path: ./prod
           # Container name
           container: '$web'
           # Remove all blobs under the target blob (use "true" to enable this option)
